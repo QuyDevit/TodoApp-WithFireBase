@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "70650109900",
+    "project_id": "demoreactnativefirebase-f5943",
+    "storage_bucket": "demoreactnativefirebase-f5943.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70650109900:android:3e245e25e2e8de49b5c769",
+        "android_client_info": {
+          "package_name": "com.demofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70650109900-1brqfkql83fpued3lp7d7rcbm87mg6ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demofirebase",
+            "certificate_hash": "af6c1f7df014fdbb385e6aefc6f3e3c29193d6e5"
+          }
+        },
+        {
+          "client_id": "70650109900-21l7l529vurdb90fsmgt8h625hhghnsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAodjiQjdO-ZuF1Tq5E241JOeQMY0S2PcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70650109900-21l7l529vurdb90fsmgt8h625hhghnsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
